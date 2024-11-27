@@ -90,6 +90,6 @@ public class GearTest extends Utility {
     //Close the browser
     @After
     public void tearDown() {
-        //closeBrowser();
+        closeBrowser();
     }
 }
